@@ -53,3 +53,11 @@ ol, ul {
 .game-board {
   margin: auto;
 }
+
+.colorRed {
+  color: red;
+}
+
+.colorGreen {
+  color: green;
+}
