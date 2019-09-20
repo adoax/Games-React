@@ -48,3 +48,7 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+button.btn.btn-primary {
+  background-color: blue;
+}
