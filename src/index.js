@@ -3,7 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Games from './tic-tac-toe/Games';
-ReactDOM.render(<Games />, document.getElementById('root'));
+import App from './App'
+
+//ReactDOM.render(<Games />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('app'))
 
 
 
